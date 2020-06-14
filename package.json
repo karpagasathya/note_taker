@@ -2,9 +2,14 @@
   "name": "note_taker",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "node server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/karpagasathya/note_taker/issues"
   },
-  "homepage": "https://github.com/karpagasathya/note_taker#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/karpagasathya/note_taker#readme"
 }
