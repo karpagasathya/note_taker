@@ -38,5 +38,7 @@ Contributions are welcome. You can create an issue or submit a pull request.
 
 [MIT](public/assets/license.txt) license
 
+## Screenshots
 
+![image](public/assets/images/image1.png)
 
