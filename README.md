@@ -36,7 +36,7 @@ Contributions are welcome. You can create an issue or submit a pull request.
 
 ## License
 
-[MIT](Assets/license.txt) license
+[MIT](public/assets/license.txt) license
 
 
 
